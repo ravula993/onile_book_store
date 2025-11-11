@@ -143,8 +143,8 @@ cd client
 npm start
 ```
 
-Frontend will run at: http://localhost:3000  
-Backend will run at: http://localhost:5000
+Local:   http://localhost:8080/
+Network: http://10.2.8.99:8080/
 
 ---
 
