@@ -2,7 +2,7 @@
 # 📚 Online Book Store — Full Stack Web Application
 
 ### 🚀 Live Demo  
-👉 [Visit Live Website](https://bookstore-cso5vxv36-ravulaajays-projects.vercel.app) <!-- Replace with your deployed link once available -->
+👉 [Visit Live Website](https://readstream-nexus.lovable.app) <!-- Replace with your deployed link once available -->
 
 ---
 
